@@ -3,7 +3,17 @@ entries:
   dumy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-04T10:35:32.179821+09:00"
+    created: "2022-10-04T17:10:10.938306+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 48776a080d6fa4a86c5619fcd471ece1971d3e2f3cd2e0a81d3ec67b3a2fedfc
+    name: dumy
+    type: application
+    urls:
+    - stable/dumy-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T17:10:10.937388+09:00"
     description: A Helm chart for Kubernetes
     digest: f3ad990f8aa43e5d5d6f79026a488df75a1a514fcb9e84004ca86deb1ed33832
     name: dumy
@@ -13,7 +23,17 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-04T10:35:32.179501+09:00"
+    created: "2022-10-04T17:10:10.938025+09:00"
+    description: A Helm chart for Kubernetes
+    digest: f3ad990f8aa43e5d5d6f79026a488df75a1a514fcb9e84004ca86deb1ed33832
+    name: dumy
+    type: application
+    urls:
+    - helm-repo/dumy-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T17:10:10.937028+09:00"
     description: A Helm chart for Kubernetes
     digest: 0eca46b3ddc6cf14fd4fd9dae0b050e383c17a44914ad7575a2518b07c46d4cf
     name: dumy
@@ -21,4 +41,14 @@ entries:
     urls:
     - dumy-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-04T10:35:32.179008+09:00"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T17:10:10.937707+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 0eca46b3ddc6cf14fd4fd9dae0b050e383c17a44914ad7575a2518b07c46d4cf
+    name: dumy
+    type: application
+    urls:
+    - helm-repo/dumy-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-04T17:10:10.936581+09:00"
