@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  dumy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T10:35:32.179821+09:00"
+    description: A Helm chart for Kubernetes
+    digest: f3ad990f8aa43e5d5d6f79026a488df75a1a514fcb9e84004ca86deb1ed33832
+    name: dumy
+    type: application
+    urls:
+    - dumy-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-04T10:35:32.179501+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 0eca46b3ddc6cf14fd4fd9dae0b050e383c17a44914ad7575a2518b07c46d4cf
+    name: dumy
+    type: application
+    urls:
+    - dumy-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-04T10:35:32.179008+09:00"
